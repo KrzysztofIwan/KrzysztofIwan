@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KrzysztofIwan
+- 👀 I’m interested in Python language
+- 🌱 I’m currently learning Python and C#
