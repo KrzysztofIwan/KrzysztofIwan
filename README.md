@@ -46,16 +46,16 @@ I'm from Poland, living in Kraków 🐲
 <p>
   <img src="https://afnet.com.pl/afntgcrt/wp-content/uploads/2024/02/icon-enova-365_ERP-enova.svg" height="40" title="Enova365" alt="Enova365"/>
   &nbsp;&nbsp;
-  <a href="https://www.codewars.com/users/KrzysztofIwan" target="blank">
+  <a href="https://www.codewars.com/users/KrzysztofIwan" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=gDJDJJ1MCGmG&format=png&color=000000" height="40" title="CodeWars" alt="CodeWars">
   <a/>
   &nbsp;&nbsp;
-  <a href="https://monkeytype.com/profile/KrzysztofI" target="blank">
+  <a href="https://monkeytype.com/profile/KrzysztofI" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/monkeytype.svg" height="40" title="Monkeytype" alt="Monkeytype">
   </a>
 </p>
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/krzysztof-iwanski/" target="blank">
+<a href="https://www.linkedin.com/in/krzysztof-iwanski/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Krzysztof Iwański LinkedIn" height="40" width="40" />
 </a>
