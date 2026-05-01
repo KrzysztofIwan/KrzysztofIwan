@@ -44,7 +44,11 @@ I'm from Poland, living in Kraków 🐲
 
 ### Other
 <p>
-  <img src="https://afnet.com.pl/afntgcrt/wp-content/uploads/2024/02/icon-enova-365_ERP-enova.svg" height="40" widrh="120" title="Enova365" alt="Enova365"/>
+  <img src="https://afnet.com.pl/afntgcrt/wp-content/uploads/2024/02/icon-enova-365_ERP-enova.svg" height="40" title="Enova365" alt="Enova365"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=gDJDJJ1MCGmG&format=png&color=000000" height="40" title="CodeWars" alt="CodeWars">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/monkeytype.svg" height="40" title="Monkeytype" alt="Monkeytype">
 </p>
 
 ## Connect with me
