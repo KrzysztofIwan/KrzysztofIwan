@@ -1,61 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+My name is Krzysztof<br>I'm from Poland, living in Kraków 🐲<br>.NET Developer focused on backend & infrastructure
 
-My name is Krzysztof Iwański
 
-I'm from Poland, living in Kraków 🐲
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kristofff_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/krzysztof-iwanski) 
 
-.NET Developer focused on backend & infrastructure
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KrzysztofIwan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=KrzysztofIwan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KrzysztofIwan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Technologies used
+---
+[![](https://komarev.com/ghpvc/?username=KrzysztofIwan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Backend & Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#" alt="CSHarp"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="40" title=".NET" alt=".NET"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" alt="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="MSSQL" alt="MSSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite" alt ="SQLite"/>
-</p>
-
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" alt="React"/>
-</p>
-
-### Environment & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" title="Windows" alt="Windows"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" title="Team Foundation Server" alt="Team Foundation Server">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" alt="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" title="Bash" alt="Bash"/>
-</p>
-
-### Other
-<p>
-  <img src="https://afnet.com.pl/afntgcrt/wp-content/uploads/2024/02/icon-enova-365_ERP-enova.svg" height="40" title="Enova365" alt="Enova365"/>
-  &nbsp;&nbsp;
-  <a href="https://www.codewars.com/users/KrzysztofIwan" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=gDJDJJ1MCGmG&format=png&color=000000" height="40" title="CodeWars" alt="CodeWars">
-  <a/>
-  &nbsp;&nbsp;
-  <a href="https://monkeytype.com/profile/KrzysztofI" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/monkeytype.svg" height="40" title="Monkeytype" alt="Monkeytype">
-  </a>
-</p>
-
-## Connect with me
-<a href="https://www.linkedin.com/in/krzysztof-iwanski/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Krzysztof Iwański LinkedIn" height="40" width="40" />
-</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
